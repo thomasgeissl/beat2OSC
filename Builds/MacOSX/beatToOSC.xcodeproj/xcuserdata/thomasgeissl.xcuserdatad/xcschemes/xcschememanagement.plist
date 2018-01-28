@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>beatToOSC - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>beatToOSC - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>beatToOSC - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>beatToOSC - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>beatToOSC - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>672983AA7D0BD8ADB3052ED2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B60A3E756165D2B8478E012</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AA9CFFA313E76EDD16417CBD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCF6F6C9E63C67F04E64CCD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CC2B581CBDF81CCF6AA5D799</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
